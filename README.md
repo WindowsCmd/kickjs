@@ -1,2 +1,1 @@
-# kick-api-js
 # kickjs
